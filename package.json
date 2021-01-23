@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "puppeteer-core": "^5.5.0",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbitraryrw/puppeteer-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbitraryrw/puppeteer-playground/issues"
+  },
+  "homepage": "https://github.com/arbitraryrw/puppeteer-playground#readme"
+}
